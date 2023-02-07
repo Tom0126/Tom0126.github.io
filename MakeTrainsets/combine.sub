@@ -1,0 +1,8 @@
+Universe = vanilla
+Executable=./combine.sh
+Should_transfer_files = Yes
+Output = ./log/test.out
+Error  = ./log/test.err
+Log    = ./log/test.log
+request_cpus = 10
+Queue 1 
